@@ -1,5 +1,5 @@
 import asyncio
-from first_crawl import main
+from basic_config import main
 
 
 if __name__ == "__main__":
